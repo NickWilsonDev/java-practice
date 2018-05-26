@@ -1,3 +1,6 @@
+# we don't want any .class files tracked
 *.class
 fibonacci/*.class
 urlreader/*.class
+commandlineargs/*.class
+
