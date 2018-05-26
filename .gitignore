@@ -3,4 +3,5 @@
 fibonacci/*.class
 urlreader/*.class
 commandlineargs/*.class
+networking/*.class
 
